@@ -1,0 +1,16 @@
+handexprjudge\app_controller.o: ../Core/Src/app_controller.c
+handexprjudge\app_controller.o: ..\Core\Inc\app_controller.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+handexprjudge\app_controller.o: ..\Core\Inc\app_config.h
+handexprjudge\app_controller.o: ..\X-CUBE-AI\App\network.h
+handexprjudge\app_controller.o: ..\X-CUBE-AI\App\network_config.h
+handexprjudge\app_controller.o: ..\Middlewares\ST\AI\Inc\ai_platform.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+handexprjudge\app_controller.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+handexprjudge\app_controller.o: ..\Core\Inc\ai_infer.h
+handexprjudge\app_controller.o: ..\Core\Inc\expr_judge.h
+handexprjudge\app_controller.o: ..\Core\Inc\image_segment.h

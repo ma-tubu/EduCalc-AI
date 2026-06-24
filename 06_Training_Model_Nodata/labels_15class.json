@@ -1,0 +1,17 @@
+[
+  {"id": 0, "label": "0", "folder": "digit_0"},
+  {"id": 1, "label": "1", "folder": "digit_1"},
+  {"id": 2, "label": "2", "folder": "digit_2"},
+  {"id": 3, "label": "3", "folder": "digit_3"},
+  {"id": 4, "label": "4", "folder": "digit_4"},
+  {"id": 5, "label": "5", "folder": "digit_5"},
+  {"id": 6, "label": "6", "folder": "digit_6"},
+  {"id": 7, "label": "7", "folder": "digit_7"},
+  {"id": 8, "label": "8", "folder": "digit_8"},
+  {"id": 9, "label": "9", "folder": "digit_9"},
+  {"id": 10, "label": "+", "folder": "op_plus"},
+  {"id": 11, "label": "-", "folder": "op_minus"},
+  {"id": 12, "label": "*", "folder": "op_mul"},
+  {"id": 13, "label": "/", "folder": "op_div"},
+  {"id": 14, "label": "=", "folder": "op_equal"}
+]

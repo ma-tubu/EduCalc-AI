@@ -1,0 +1,12 @@
+handexprjudge\image_segment.o: ../Core/Src/image_segment.c
+handexprjudge\image_segment.o: ..\Core\Inc\image_segment.h
+handexprjudge\image_segment.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+handexprjudge\image_segment.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+handexprjudge\image_segment.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+handexprjudge\image_segment.o: ..\Core\Inc\app_config.h
+handexprjudge\image_segment.o: ..\X-CUBE-AI\App\network.h
+handexprjudge\image_segment.o: ..\X-CUBE-AI\App\network_config.h
+handexprjudge\image_segment.o: ..\Middlewares\ST\AI\Inc\ai_platform.h
+handexprjudge\image_segment.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+handexprjudge\image_segment.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+handexprjudge\image_segment.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
