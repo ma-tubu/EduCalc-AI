@@ -608,45 +608,6 @@ judge: CORRECT
 
 ---
 
-## GitHub 上传建议
-
-建议上传：
-
-```text
-01_STM32F7_HandExprJudge_KeilSafe/
-02_PC_Tools/
-03_Models/
-04_Docs/
-05_Test_Records/
-06_Training_Model_Nodata/
-07_test_input/
-README.md
-```
-
-不建议上传：
-
-```text
-01_STM32F7_0_9_baseline/
-01_STM32F7_0_9_baseline -备份/
-01_STM32F7_0_9_verified_original/
-01_STM32F7_15class_from_baseline/
-01_STM32F7_HandExprJudge/
-06_Training_15Class/
-*.zip
-*.rar
-MDK-ARM/HandExprJudge/
-*.o
-*.d
-*.crf
-*.axf
-*.hex
-*.map
-*.build_log.htm
-*.uvguix.*
-__pycache__/
-```
-
----
 
 ## 后续改进方向
 
@@ -659,11 +620,6 @@ __pycache__/
 
 ---
 
-## 许可证
-
-本项目用于嵌入式系统课程设计与学习交流。若后续公开发布，可根据需要补充 MIT、Apache-2.0 或其他开源许可证。
-
----
 
 ## 项目名称
 
